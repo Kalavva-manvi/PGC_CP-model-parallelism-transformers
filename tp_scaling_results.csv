@@ -1,0 +1,10 @@
+link,shards,speedup,efficiency_pct
+NVLink (~300 GB/s),2,1.0,100.0
+NVLink (~300 GB/s),4,1.86,92.9
+NVLink (~300 GB/s),8,3.69,92.2
+PCIe 3.0 (~10 GB/s),2,1.0,100.0
+PCIe 3.0 (~10 GB/s),4,1.74,86.8
+PCIe 3.0 (~10 GB/s),8,3.04,76.0
+PCIe 4.0 (~25 GB/s),2,1.0,100.0
+PCIe 4.0 (~25 GB/s),4,1.81,90.4
+PCIe 4.0 (~25 GB/s),8,3.4,85.0

@@ -1,0 +1,5 @@
+stages,layers_per_device,params_M_per_device,peak_GB_per_device,status
+1,24,4832,,OOM
+2,12,2416,,OOM
+4,6,1208,9.95,OK
+8,3,604,5.12,OK

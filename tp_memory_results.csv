@@ -1,0 +1,5 @@
+shards,params_M_per_device,peak_GB_per_device,time_s,status
+1,3221,,,OOM
+2,1611,13.81,1.274,OK
+4,805,7.27,0.684,OK
+8,403,4.04,0.342,OK
